@@ -1,5 +1,8 @@
-### Hi there 👋
+### 
 
+- 📫 How to reach me
+- Email: ramazan@yigit.tc
+- Discord: NoMan#4504
 <!--
 **ramazanyigitt/ramazanyigitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
