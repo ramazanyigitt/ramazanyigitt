@@ -1,6 +1,7 @@
-### 
+# Ramazan YIGIT
+Hi! I'm a versatile programmer. I love to learn and try new things.
 
-- 📫 How to reach me
+## Contact 📫
 - Email: ramazan@yigit.tc
 - Discord: NoMan#4504
 <!--
