@@ -5,7 +5,7 @@ Personal portfolio website:
 https://algoritechnology.com
 
 ## Contact 📫
-<a href="https://www.linkedin.com/in/ramazanyigit/"> - Linkedin: ramazanyigit </a>
+- <a href="https://www.linkedin.com/in/ramazanyigit/">Linkedin: ramazanyigit </a>
 - Email: ramazan@yigit.tc
 - Discord: NoMan#4504
 <!--
